@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point to leaen Japanese.
+This project is a simple starting point to leaen Japanese.
 
 A few resources to get you started if this is your first Flutter project:
 
