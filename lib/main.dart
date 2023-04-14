@@ -24,6 +24,7 @@ class TokuApp extends StatelessWidget {
             color: Colors.white,
           ),
         ),
+        scaffoldBackgroundColor: Colors.white,
       ),
       home: const HomeScreen(),
     );

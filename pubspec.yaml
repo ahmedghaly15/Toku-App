@@ -1,12 +1,13 @@
 name: toku_app
 description: A new Flutter project.
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: '>=2.19.6 <3.0.0'
+  sdk: ">=2.19.6 <3.0.0"
 
 dependencies:
+  audioplayers: ^0.20.1
   flutter:
     sdk: flutter
 
@@ -17,3 +18,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/colors/
+    - assets/images/family_members/
+    - assets/images/numbers/
+    - assets/sounds/colors/
+    - assets/sounds/family_members/
+    - assets/sounds/numbers/
+    - assets/sounds/phrases/
